@@ -1,10 +1,6 @@
 # Hi 👋, I'm Aswathy Krishnan R
 
-🎓 Computer Science Graduate | 📊 Data Science & ML Enthusiast | 🤖 AI Practitioner
-
-I specialize in **Data Science, Machine Learning, and Deep Learning**, with hands-on experience in building real-world, data-driven solutions and deploying ML/DL models as interactive applications.
-
----
+🎓 Computer Science Graduate | 📊 Data Science & ML Enthusiast
 
 ## 🔍 About Me
 
@@ -64,14 +60,6 @@ I specialize in **Data Science, Machine Learning, and Deep Learning**, with hand
 - Developed CNN & U-Net models for MRI-based tumor analysis  
 - Achieved **95% accuracy** in classification & segmentation  
 - Deployed as a **Streamlit web application**
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aswathykrishnanr&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aswathykrishnanr&layout=compact)
-
----
 
 ## 🎓 Education
 
