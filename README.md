@@ -1,7 +1,12 @@
-## Hi there 👋
+# Hi 👋, I'm YOUR NAME
 
-<!--
-**Aswathykrishnanr/Aswathykrishnanr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science Student | 📊 Aspiring Data Analyst | 🤖 ML Enthusiast
+
+- 🌱 Currently learning: Machine Learning, Statistics, SQL
+- 🔍 Interested in: Data Analysis, Visualization, Predictive Modeling
+- 💬 Ask me about: Python, Pandas, NumPy, Data Cleaning
+- 📫 Reach me at: your@email.com
+
 
 Here are some ideas to get you started:
 
