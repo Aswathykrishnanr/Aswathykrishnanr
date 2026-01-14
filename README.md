@@ -53,17 +53,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aswathykrishnanr&show_icons=true&theme=dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Aswathykrishnanr&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aswathykrishnanr&layout=donut&theme=dark)
-
----
-
-![Profile Views](https://visitcount.itsvg.in/api?id=Aswathykrishnanr&icon=0&color=0)
 
 
 
