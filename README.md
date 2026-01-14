@@ -1,4 +1,4 @@
-#Hi, I'm Aswathy Krishnan R
+# 👋 Hi, I'm Aswathy Krishnan R
 
 🎓 Computer Science Graduate | 📊 Data Science & Machine Learning Enthusiast  
 
