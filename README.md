@@ -8,13 +8,17 @@
 
 🎓 Computer Science graduate with a strong foundation in data structures, algorithms, and analytics
 
-🤖 Passionate about Machine Learning, Deep Learning, and AI-driven solutions
+🤖 Passionate about Machine Learning, Deep Learning, and Generative AI applications
 
-📊 Experienced in Exploratory Data Analysis (EDA), data preprocessing, and predictive modeling
+📊 Experienced in transforming raw data into actionable insights using data analysis and visualization techniques
+
+👁️ Worked on computer vision projects using OpenCV and deep learning models
+
+📈 Skilled in building interactive dashboards and business reports using Power BI
 
 🛠 Skilled in building end-to-end data pipelines and deploying practical ML solutions
 
-🌟 Motivated to solve real-world problems using data-driven insights and innovative thinking
+🚀 Focused on developing practical, scalable solutions that solve real-world problems
 
 ---
 
