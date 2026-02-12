@@ -4,12 +4,17 @@
 
 ---
 
-## 💫 About Me
+🚀 About Me
 
-- 🎓 Computer Science graduate with a strong foundation in Data Science  
-- 📊 Passionate about Machine Learning, Deep Learning, and data analytics  
-- 🧠 Hands-on experience in EDA, data preprocessing, and model building  
-- 🚀 Driven to create practical, data-driven solutions with real-world impact  
+🎓 Computer Science graduate with a strong foundation in data structures, algorithms, and analytics
+
+🤖 Passionate about Machine Learning, Deep Learning, and AI-driven solutions
+
+📊 Experienced in Exploratory Data Analysis (EDA), data preprocessing, and predictive modeling
+
+🛠 Skilled in building end-to-end data pipelines and deploying practical ML solutions
+
+🌟 Motivated to solve real-world problems using data-driven insights and innovative thinking
 
 ---
 
