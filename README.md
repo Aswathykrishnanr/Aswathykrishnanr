@@ -1,26 +1,35 @@
 # 👋 Hi, I'm Aswathy Krishnan R
 
-🎓 Computer Science Graduate | 📊 Data Science & Machine Learning Enthusiast  
+Computer Science Graduate | Machine Learning, Deep Learning, Gen AI
 
 ---
 
-🚀 About Me
+## 🚀 About Me
 
-🎓 Computer Science graduate with a strong foundation in data structures, algorithms, and analytics
+* 🎓 Computer Science graduate with a strong foundation in **data structures, algorithms, and data analysis**
 
-🤖 Passionate about Machine Learning, Deep Learning, and Generative AI applications
+* 🤖 Interested in **Machine Learning, Deep Learning, Computer Vision, and Generative AI**
 
-📊 Experienced in transforming raw data into actionable insights using data analysis and visualization techniques
+* 👁️ Built projects involving **face detection, face recognition, OCR, object detection (YOLO), and speech recognition**
 
-👁️ Worked on computer vision projects using OpenCV and deep learning models
+* 📊 Experienced in **data analysis and visualization**, including building interactive dashboards using **Power BI**
 
-📈 Skilled in building interactive dashboards and business reports using Power BI
+* 🐍 Comfortable working with **Python, OpenCV, and machine learning workflows**
 
-🛠 Skilled in building end-to-end data pipelines and deploying practical ML solutions
+* 🧠 Currently exploring **Generative AI concepts and building AI-powered applications**
 
-🚀 Focused on developing practical, scalable solutions that solve real-world problems
 
 ---
+
+## 🔬 What I Work On
+
+* 🤖 Machine Learning model development and experimentation
+* 🧠 Deep Learning and Computer Vision applications
+* ✨ Exploring Generative AI and AI-powered tools
+* 📊 Data analysis and visualization
+* 📈 Business intelligence dashboards using Power BI
+* 🐍 Python-based automation and data projects
+
 
 ## 🌐 Connect with Me
 
