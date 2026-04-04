@@ -87,7 +87,7 @@
  
 ---
  
-### 📦 Demand Forecasting & Inventory Optimization
+### 📦 [Demand Forecasting & Inventory Optimization]
 > ML pipeline for demand forecasting using historical retail sales data. Applied **regression and ensemble models** to predict near-term demand and generate reorder recommendations.
 >
 > `Scikit-Learn` `Pandas` `NumPy` `Python`
