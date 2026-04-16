@@ -80,7 +80,7 @@
  
 ---
  
-### 📚 [PaperMind — AI Research Paper Analyzer](https://github.com/Aswathykrishnanr)
+### 📚 [PaperMind — AI Research Paper Analyzer](https://paperchat-ai-research-paper-analyzer.streamlit.app/)
 > RAG-based research assistant enabling natural language **Q&A across multiple PDFs** with source-level citations. Ingests PDFs, generates vector embeddings and retrieves answers using LangChain.
 >
 > `LangChain` `ChromaDB` `Sentence Transformers` `RAG` `Streamlit` `LLMs`
