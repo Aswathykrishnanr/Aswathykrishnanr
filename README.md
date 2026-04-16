@@ -71,23 +71,23 @@
  
 ## 🏆 Featured Projects
  
-### 🧬 [BrDX — Brain Tumor Detection & Segmentation](https://brdxmodel.streamlit.app/)
+###  [BrDX — Brain Tumor Detection & Segmentation](https://brdxmodel.streamlit.app/)
 > Deep learning pipeline integrating **CNN + U-Net** for MRI-based brain tumor classification and segmentation with **95% accuracy**. Deployed as a real-time Streamlit web app.
 > 
 > `TensorFlow` `Keras` `U-Net` `CNN` `Streamlit` `Python`
 > 
-> 📄 [Published in IJNRD Peer-Reviewed Journal, Vol. 10, March 2025](https://ijnrd.org/papers/IJNRD2503153.pdf)
+> 📚[Published in IJNRD Peer-Reviewed Journal, Vol. 10, March 2025](https://ijnrd.org/papers/IJNRD2503153.pdf)
  
 ---
  
-### 📚 [PaperMind — AI Research Paper Analyzer](https://paperchat-ai-research-paper-analyzer.streamlit.app/)
+###  [PaperMind — AI Research Paper Analyzer](https://paperchat-ai-research-paper-analyzer.streamlit.app/)
 > RAG-based research assistant enabling natural language **Q&A across multiple PDFs** with source-level citations. Ingests PDFs, generates vector embeddings and retrieves answers using LangChain.
 >
 > `LangChain` `ChromaDB` `Sentence Transformers` `RAG` `Streamlit` `LLMs`
  
 ---
  
-### 📦 [Demand Forecasting & Inventory Optimization]
+###  Demand Forecasting & Inventory Optimization
 > ML pipeline for demand forecasting using historical retail sales data. Applied **regression and ensemble models** to predict near-term demand and generate reorder recommendations.
 >
 > `Scikit-Learn` `Pandas` `NumPy` `Python`
@@ -104,7 +104,7 @@
  
 ## 💼 Experience
  
-**Data Science Intern — Luminar Technolab** *(May 2025 – Present)*
+**Data Science Intern — Luminar Technolab** *(May 2025 – Feb 2026)*
 > GenAI applications · ML/DL models · EDA · Power BI dashboards
  
 **Data Science Intern — Zoople Technologies** *(Jan 2025 – Mar 2025)*
