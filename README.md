@@ -87,7 +87,7 @@
  
 ---
  
-###  [Demand Forecasting & Inventory Optimization] (https://demand-forecasting-inventory-optimization-app.streamlit.app/)
+###  [Demand Forecasting & Inventory Optimization](https://demand-forecasting-inventory-optimization-app.streamlit.app/)
 > ML pipeline for demand forecasting using historical retail sales data. Applied **regression and ensemble models** to predict near-term demand and generate reorder recommendations.
 >
 > `Scikit-Learn` `Pandas` `NumPy` `Python`
