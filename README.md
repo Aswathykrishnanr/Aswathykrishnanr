@@ -19,7 +19,7 @@
 - 📄 **Published researcher** — BrDX brain tumor detection system (CNN + U-Net, 95% accuracy) in IJNRD peer-reviewed journal
 - 🤖 Developed **GenAI applications** using LangChain, LLMs and RAG pipelines during professional internships
 - 📊 Experienced in **EDA, data analysis and interactive dashboards** using Power BI and MySQL
-- 🚀 Focused on end-to-end AI development — from model training to **Streamlit deployment**
+- 🚀 Focused on end-to-end AI development — from model training to deployment
  
 ---
  
