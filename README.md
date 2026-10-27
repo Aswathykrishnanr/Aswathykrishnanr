@@ -21,7 +21,7 @@ Computer Science graduate (B.Tech, 2025) who builds practical AI applications wi
 
 ## Featured Projects
 
-### [PaperChat: RAG Document Assistant](YOUR-PAPERCHAT-REPO-LINK)
+### [PaperChat-Document-Analyzer](YOUR-PAPERCHAT-REPO-LINK)
 Retrieval-augmented chat over uploaded documents. Search depth adapts to query complexity, it keeps multi-turn memory, and answers include source citations.
 `Python` `LangChain` `ChromaDB` `Sentence Transformers` `Streamlit` · [Live Demo](https://paperchat-document-analyzer.streamlit.app/)
 
@@ -29,7 +29,7 @@ Retrieval-augmented chat over uploaded documents. Search depth adapts to query c
 AI assistant for a small family bakery. It turns daily sales records into charts and plain-language insights, running Gemma locally via Ollama.
 `Python` `Ollama` `Gemma` `Pandas` `Streamlit` · [Write-up on DEV](https://dev.to/aswathy_4793040ca024945e3/i-built-an-offline-ai-accounts-book-for-my-fathers-business-2695)
 
-### [BrDX: Brain Tumor Detection & Segmentation](YOUR-BRDX-REPO-LINK)
+### [BrDX](YOUR-BRDX-REPO-LINK)
 Dual-model pipeline: a CNN classifies MRI scans and a U-Net segments the tumor region. 95% classification accuracy on a public dataset, with a deployed inference web app.
 `TensorFlow` `Keras` `CNN` `U-Net` `Streamlit` · [Live Demo](https://brdxmodel.streamlit.app/)
 
