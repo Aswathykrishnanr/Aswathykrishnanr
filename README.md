@@ -29,7 +29,7 @@ Retrieval-augmented chat over uploaded documents. Search depth adapts to query c
 AI assistant for a small family bakery. It turns daily sales records into charts and plain-language insights, running Gemma locally via Ollama.
 `Python` `Ollama` `Gemma` `Pandas` `Streamlit` · [Write-up on DEV](https://dev.to/aswathy_4793040ca024945e3/i-built-an-offline-ai-accounts-book-for-my-fathers-business-2695)
 
-### [BrDX](YOUR-BRDX-REPO-LINK)
+### [BrDX: Brain Tumor Detection & Segmentation](https://github.com/Aswathykrishnanr/BrDX)
 Dual-model pipeline: a CNN classifies MRI scans and a U-Net segments the tumor region. 95% classification accuracy on a public dataset, with a deployed inference web app.
 `TensorFlow` `Keras` `CNN` `U-Net` `Streamlit` · [Live Demo](https://brdxmodel.streamlit.app/)
 
