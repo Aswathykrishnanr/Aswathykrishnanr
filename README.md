@@ -43,9 +43,8 @@ Dual-model pipeline: a CNN classifies MRI scans and a U-Net segments the tumor r
 ---
 
 ## Currently
-- Building and testing AI agent projects
-- Writing beginner-friendly technical posts on DEV and Medium
-- Open to fresher AI/ML engineer and data roles
+- 🔍 Seeking fresher AI/ML engineer roles
+- 🤖 Learning to build and test AI agents
 
 
 
