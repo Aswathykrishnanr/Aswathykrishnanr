@@ -21,7 +21,7 @@ Computer Science graduate (B.Tech, 2025) who builds practical AI applications wi
 
 ## Featured Projects
 
-### [PaperChat-Document-Analyzer](YOUR-PAPERCHAT-REPO-LINK)
+### [PaperChat-Document-Analyzer](https://github.com/Aswathykrishnanr/PaperChat-Document-Analyzer)
 Retrieval-augmented chat over uploaded documents. Search depth adapts to query complexity, it keeps multi-turn memory, and answers include source citations.
 `Python` `LangChain` `ChromaDB` `Sentence Transformers` `Streamlit` · [Live Demo](https://paperchat-document-analyzer.streamlit.app/)
 
